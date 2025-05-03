@@ -1,4 +1,3 @@
-# user-segmentation
 # Customer Segmentation using K-Means, PCA, and FAMD
 
 이 프로젝트는 고객 데이터를 기반으로 **PCA (주성분 분석)**, **FAMD (혼합 데이터 요인 분석)**, **K-Means Clustering**을 활용하여 고객 세분화를 수행한 Python 분석 노트북입니다.

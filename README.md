@@ -14,7 +14,7 @@
 
 ## 📂 파일 구성
 
-- `customer_segmentation_kmeans-PCA,FAMD_commented.ipynb` : 주석 추가된 분석 노트북
+- `customer_segmentation_kmeans-PCA,FAMD.ipynb` : 주석 추가된 분석 노트북
 - `README.md` : 프로젝트 설명 문서
 
 ## 🏃 실행 방법

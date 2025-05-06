@@ -54,4 +54,7 @@
   - **Cluster 3**: 다양한 연령대, 고소득, 소비 점수 평균
 - PCA/FAMD를 통한 차원 축소 시 **군집 간 시각적 분리 가능**
 
+## 🔗 참고 자료
+
+- [Step by Step Customer Segmentation using K-Means in Python](https://medium.com/@ugursavci/step-by-step-customer-segmentation-using-k-means-and-pca-in-python-5733822295b6)
 

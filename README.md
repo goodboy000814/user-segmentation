@@ -21,7 +21,6 @@
 ## 🛠️ 사용 기술 및 라이브러리
 - Python 3.x
 - pandas, numpy, scipy
-- scikit-learn
 - prince (FAMD)
 - matplotlib, seaborn
 
@@ -36,7 +35,7 @@
    - `StandardScaler` 적용
 4. **차원 축소**
    - PCA: 수치형 변수에 적용
-   - FAMD: 혼합형 변수에 적용
+   - FAMD: 범주형+수치형 혼합 데이터셋에 적용
 5. **클러스터링**
    - Elbow Method로 K 값 결정
    - K-Means 클러스터링 실행
@@ -44,16 +43,6 @@
    - 각 클러스터의 인구통계적 특성 분석
    - 클러스터별 변수 차이 시각화 (2D, 3D plot)
    - 군집별 주요 insight 도출
-
-## 🏆 주요 결과
-- 최적의 클러스터 수: **4개**
-- 각 클러스터 특성:
-  - **Cluster 0**: 고소득, 중년층, 소비 점수 낮음
-  - **Cluster 1**: 저소득, 젊은층, 소비 점수 높음
-  - **Cluster 2**: 중소득, 고연령, 안정적 소비
-  - **Cluster 3**: 다양한 연령대, 고소득, 소비 점수 평균
-- PCA/FAMD를 통한 차원 축소 시 **군집 간 시각적 분리 가능**
-
 
 ## 참고자료
 - [Step by Step Customer Segmentation using K-Means in Python](https://medium.com/@ugursavci/step-by-step-customer-segmentation-using-k-means-and-pca-in-python-5733822295b6) 을 기반으로 작성됨.
